@@ -4,7 +4,7 @@ Scanify
 Usage
 ---------------------------------------
 
-    ./scanify.py test_data/calculusone.png
+    $ ./scanify.py test_data/calculusone.png
     test_data/calculusone_scan.png save
     
 From
