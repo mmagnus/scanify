@@ -19,3 +19,7 @@ Install
 ---------------------------------------
 
 **imagemagick required**
+
+Credits
+---------------------------------------
+http://tex.stackexchange.com/questions/94523/simulate-a-scanned-paper
