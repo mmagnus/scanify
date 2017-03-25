@@ -17,6 +17,10 @@ to
 
 ![](test_data/calculusone_scan.png)
 
+or to (with `--grayscale`):
+
+![](test_data/calculusone2_scan.png)
+
 Install
 ---------------------------------------
 
