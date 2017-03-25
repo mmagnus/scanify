@@ -15,4 +15,4 @@ after_success:
   
 notifications:
    email:
-     - magnus@genesilico.pl
+     - mag_dex@o2.pl
