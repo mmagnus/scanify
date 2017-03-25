@@ -18,7 +18,7 @@ def resize(fn):
     for fn in fns:
         nfn = os.path.splitext(fn)[0] + '_resized50p.png'
         os.system('convert -resize 50% "' + fn + '" "' + nfn + '"')
-        print('%s save' % nfn)
+        print(('%s save' % nfn))
 
 if __name__ == '__main__':
     parser = get_parser()

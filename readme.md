@@ -51,4 +51,7 @@ to get:
 History
 =========================================
 
+- 170325 works with Python 3.5!
+- 170325 test under Travis
+- 170325 add scanify.py --grayscale
 - 170325 add a simple resize script
