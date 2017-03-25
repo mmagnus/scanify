@@ -1,6 +1,8 @@
 Scanify
 =========================================
 
+[![Build Status](https://travis-ci.org/mmagnus/scanify.svg?branch=master)](https://travis-ci.org/mmagnus/scanify)
+
 Usage
 ---------------------------------------
 
